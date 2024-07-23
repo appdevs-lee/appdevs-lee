@@ -1,4 +1,6 @@
 <img src="https://img.shields.io/badge/js10081008@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+👋 Hi there! I'm iOS Developer.
+I have experience 2 years of iOS development.
 
 # Skills
 Platforms & Languages

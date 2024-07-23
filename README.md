@@ -1,8 +1,18 @@
 <img src="https://img.shields.io/badge/js10081008@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
 # Skills
-Platforms & Languages <br/><br/>
-<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/> 
+Platforms & Languages
+<br/>
+<br/>
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/> 
+<br/>
+<br/>
+Tools
+<br/>
+<br/>
+<img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=Firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 
 <!--
 **appdevs-lee/appdevs-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
